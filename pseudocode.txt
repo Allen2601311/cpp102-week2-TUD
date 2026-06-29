@@ -1,0 +1,26 @@
+
+Pseudocode:
+START
+INPUT num1 
+INPUT num2
+PROCESS sum = num1 + num2
+DISPLAY sum
+END
+
+START
+INPUT grade
+IF grade>= 60 THEN
+     DISPLAY "PASSED"
+ELSE
+     DISPLAY "FAILED"
+END IF
+END
+
+START
+INPUT number
+IF number >= 0 THEN
+     DISPLAY "Positive"
+ELSE
+     DISPLAY "NEGATIVE"
+END IF
+END
